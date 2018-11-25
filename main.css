@@ -3434,7 +3434,8 @@ a.account__display-name:hover strong {
   display: block;
   font-weight: 500;
   overflow: hidden;
-  text-overflow: ellipsis; }
+  text-overflow: ellipsis; 
+  font-family: monospace;}
 .navigation-bar__profile-edit {
   color: inherit;
   text-decoration: none; }
